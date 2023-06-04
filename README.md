@@ -8,7 +8,7 @@ Le projet "zip_documents_users" est un script Python conçu pour archiver les fi
 Utilisation
 -----------
 1. Double-cliquez sur le fichier exécutable pour lancer le script.
-2. Le script parcourt les dossiers de tous les utilisateurs de Windows et crée une archive ZIP contenant les fichiers correspondant aux extensions spécifiées.
+2. Le script parcourt les dossiers de l'utilisateur de Windows et crée une archive ZIP contenant les fichiers correspondant aux extensions spécifiées.
 3. Un fichier de journalisation, nommé `nom_du_fichier.log`, est généré pour enregistrer les erreurs rencontrées pendant l'opération.
 4. Une fois l'archivage terminé, le fichier ZIP final contenant les fichiers archivés est affiché dans le même répertoire que le fichier exécutable.
 
