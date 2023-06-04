@@ -1,4 +1,4 @@
-zip_documents_user
+zip_document_user
 ==============
 
 Description
