@@ -3,7 +3,7 @@ zip_documents_user
 
 Description
 ------------
-Le projet "zip_documents_users" est un script Python conçu pour archiver les fichiers de l'utilisateur de Windows en les compressant dans un fichier ZIP. Le script recherche les fichiers ayant certaines extensions spécifiées et d'une taille inférieure à 20 Mo, puis les ajoute à une archive ZIP. En outre, un fichier de journalisation est créé pour enregistrer les détails de l'opération.
+Le projet "zip_documents_user" est un script Python conçu pour archiver les fichiers de l'utilisateur de Windows en les compressant dans un fichier ZIP. Le script recherche les fichiers ayant certaines extensions spécifiées et d'une taille inférieure à 20 Mo, puis les ajoute à une archive ZIP. En outre, un fichier de journalisation est créé pour enregistrer les détails de l'opération.
 
 Utilisation
 -----------
