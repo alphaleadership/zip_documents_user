@@ -4,7 +4,7 @@ import socket
 from datetime import datetime
 
 # Liste des noms de dossiers à rechercher
-folder_names = set(['Documents', 'Pictures', 'Downloads', 'Music', 'Videos', 'Desktop'])
+folder_names = {'Documents', 'Pictures', 'Downloads', 'Music', 'Videos', 'Desktop'}
 
 # Liste des extensions de fichiers à rechercher
 file_extensions = tuple(['.doc', '.docx', '.xls', '.xlsx', '.ppt', '.pptx', '.pdf', '.jpg', '.jpeg',
